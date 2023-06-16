@@ -1,28 +1,7 @@
 <html>
 
-<head>
-
-<title>Page Title</title>
-
-</head>
-
-<body>
-
-<h1>시험 공부 시간표</h1>
-
 <p>
 <li>16일 금요일 <font color="red">영어</font></li>
 <li>17일 토요일 <font color="red">물리 화학 지구</font></li>
-<li>18일 일요일 <font color="red">물리</font></li>
-<li>19일 월요일 문학</li>
-<li>20일 화요일</li>
-<li>21일 수요일</li>
-<li>22일 목요일</li>
-<li>23일 금요일</li>
-<li>24일 토요일</li>
-<li>25일 일요일</li>
-</p>
-
-</body>
-
-</html>
+<li>18일 일요일
+color="red">물리 화학 지구</font></li></html>
